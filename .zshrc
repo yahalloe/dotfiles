@@ -21,7 +21,7 @@ echo "\e[94mwelcome to \e[1myahallo's terminal!\e[0m"
 echo "\n\n/mnt/c/users/lexuz/OneDrive\ -\ MSFT/root\ \(laptop\)/Documents/code/c/111"
 cd /mnt/c/users/lexuz/OneDrive\ -\ MSFT/root\ \(laptop\)
 
---ls colors
+#ls colors
 export LS_COLORS="di=35:fi=F:ln=35:so=32:pi=33:ex=95:bd=34;46:cd=34;43:su=30;41:sg=30;46:tw=30;42:ow=30;43"
 
 #Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
